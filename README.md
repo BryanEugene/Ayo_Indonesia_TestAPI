@@ -84,6 +84,11 @@ Test AYO Indonesia
 
 ## 🔗 API Endpoints
 
+### Base URL
+```
+http://127.0.0.1:8000
+```
+
 ### Teams Management
 ```
 GET    /api/teams                     # Get all teams
